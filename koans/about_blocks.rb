@@ -1,3 +1,7 @@
+#
+# Don't know yields and ???
+#
+
 require File.expand_path(File.dirname(__FILE__) + '/edgecase')
 
 class AboutBlocks < EdgeCase::Koan
